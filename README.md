@@ -21,8 +21,9 @@ Place the json file in your application folder.
 
 ## Usage
 - Open cmd in the project folder
-- enter "python main.py"
-- choose one of the following options
+- Activate the created virtual environment
+- Enter "python main.py"
+- Choose one of the following options
 
 ## Options
 1. List the avaible voices: Prints all the voices avaible in the Google Text to Speech API
