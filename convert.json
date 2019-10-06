@@ -1,0 +1,16 @@
+{
+    "texts": [
+        {
+            "name": "welcome.mp3",
+            "text": "Welcome to Malden Soldier.",
+            "code": "en-GB",
+            "voice": "en-GB-Wavenet-D"
+        },
+        {
+            "name": "friend.mp3",
+            "text": "Good to see you again, old friend.",
+            "code": "en-US",
+            "voice": "en-US-Wavenet-A"
+        }
+    ]
+}
