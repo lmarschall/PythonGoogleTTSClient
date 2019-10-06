@@ -1,2 +1,2 @@
 # PythonGoogleTTSClient
-by using googles text to speech api, this client allows the user to input a text with the given parameters and receive an audio output.
+By using googles text to speech api, this client allows the user to input a text with the given parameters and receive an audio output.
