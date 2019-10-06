@@ -10,8 +10,8 @@ By using googles text to speech api, this client allows the user to input a text
 - Credentials Json File
 
 ## Credentials Json File
-In order to be able to use this client application you have to generate yourself a credentials json file with the google console, there fore you need to follow the steps in the reference to the client library under "Setting up authentication"
-Place the json file in your application folder.
+In order to be able to use this client application you have to generate yourself a credentials json file with the google console, there fore you need to follow the steps in the reference to the client library link under "Setting up authentication"
+Place the json file in your application folder with the given name: "credentials.json"
 
 ## Installation
 - Create a new virtual environment
